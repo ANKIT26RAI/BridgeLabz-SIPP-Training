@@ -1,4 +1,4 @@
-package com.studyopedia.Arrays.Level1;
+package com.studyopedia.Arrays.Level2;
 import java.util.*;
 public class ZaraBonusCalculator {
 
